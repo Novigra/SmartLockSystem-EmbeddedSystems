@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\bin\Debug\net6.0\Connect.deps.json
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\bin\Debug\net6.0\Connect.dll
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\bin\Debug\net6.0\Connect.pdb
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.dll
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\refint\Connect.dll
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\Connect.pdb
+C:\Users\Lenovo\Desktop\Embedded\Project\Connect\obj\Debug\net6.0\ref\Connect.dll
